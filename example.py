@@ -1,5 +1,5 @@
 # Example usage
-from logger_Davo import *
+from logger import *
 
 logger = Logger(min_log_level=LogLevel.INFO)
 
